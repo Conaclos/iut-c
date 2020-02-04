@@ -34,7 +34,6 @@ paramètre.
 un pointeur ?
 Si oui, modifier la fonction en conséquence.
 
-**5.** La fonction `random_fighter` peut-elle être modifiée de telle manière à
+**6.** La fonction `random_fighter` peut-elle être modifiée de telle manière à
 retourner un pointeur ?
 Si oui, modifier la fonction en conséquence.
-
