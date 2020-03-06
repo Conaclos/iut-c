@@ -1,0 +1,4 @@
+
+all:
+	echo 'do nothings'
+
