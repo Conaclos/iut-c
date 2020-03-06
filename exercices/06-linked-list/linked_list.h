@@ -11,7 +11,7 @@ typedef struct cell {
 Cell * list_empty();
 
 /**
- * @return new cell such taht val is its value and succ its successor cell.
+ * @return new cell such that val is its value and succ its successor cell.
  */
 Cell * list_cell(int val, Cell* succ);
 
