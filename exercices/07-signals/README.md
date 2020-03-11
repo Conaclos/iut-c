@@ -6,7 +6,7 @@ programme.
 ## yet another guessing game
 
 Vous puvez reprendre le code que vous avez écrit pour l'exercice
-[guessing-game](../01-guessing-game.md).
+[guessing-game](../01-guessing-game/README.md).
 
 Vous ajouterez une première interruption pour huer le joueur lorsqu'il abandonne
 la partie en efefctuant un `CTRL-C`.

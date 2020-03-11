@@ -1,5 +1,5 @@
-Cet exercice consiste à adapter le [jeu de pari](02-jeu-de-pari.md) avec des
-pointeurs.
+Cet exercice consiste à adapter le [jeu de pari](../02-jeu-de-pari/README.md)
+avec des pointeurs.
 dans le cadre de cet exercice, les pointeurs nous permettrons de réduire la
 consommation de mémoire et de modifier des valeurs.
 
