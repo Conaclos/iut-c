@@ -1,5 +1,5 @@
 
-Le but de cet exercice est d''écrire une petit bibliothèque pour manipuler des
+Le but de cet exercice est d''écrire une petite bibliothèque pour manipuler des
 chaînes de caractères qui suivent la convention de C (elles se terminent par le
 craictère NUL `\0').
 
@@ -28,7 +28,7 @@ int main() {
 }
 ```
 
-**2.** Écrire une fonction `strreplace` qui replace toutes les occurrences d'un
+**2.** Écrire une fonction `strreplace` qui remplace toutes les occurrences d'un
 caractère par un autre.
 
 La signature de la fonction est
