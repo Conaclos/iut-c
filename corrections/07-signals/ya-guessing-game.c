@@ -52,7 +52,7 @@ int main() {
     } while (candidate != nb);
 
     if (iter > 2) {
-        printf("Bravo ! Il t'as fallu tout de même %d tentatives !\n", iter);
+        printf("Bravo ! Il t'a fallu tout de même %d tentatives !\n", iter);
     }
     else {
         printf("Bravo !");

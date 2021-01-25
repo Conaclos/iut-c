@@ -23,17 +23,17 @@ Cette procédure tente d'infliger un coup au combattant qui est passé en
 paramètre.
 Un coup est accompagné d'une rapidité d'attaque exprimée en pourcentage.
 Si ce pourcentage dépasse l'esquive du combattant, alors le coup est réussi : il
-perds un point de vie.
+perd un point de vie.
 
 **3.** Adapter la fonction `fight` pour appeler `try_hit`.
 
 **4.** Modifier la fonction `fight` pour qu'elle accepte deux pointeurs en
 paramètre.
 
-**5.** La fonction `fight` peut-elle être modifiée de telle manière à retourner
+**5.** La fonction `fight` peut-elle être modifiée de manière à retourner
 un pointeur ?
 Si oui, modifier la fonction en conséquence.
 
-**6.** La fonction `random_fighter` peut-elle être modifiée de telle manière à
+**6.** La fonction `random_fighter` peut-elle être modifiée de manière à
 retourner un pointeur ?
 Si oui, modifier la fonction en conséquence.

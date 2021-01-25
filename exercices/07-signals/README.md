@@ -12,7 +12,7 @@ Vous ajouterez une première interruption pour huer le joueur lorsqu'il abandonn
 la partie en efefctuant un `CTRL-C`.
 
 Puis, vous ajouterez une seconde interruption pour donner un temps limité au
-joueur. Une fois `X` secondes écoulées le joueur a perdu.
+joueur. Une fois `X` secondes écoulées le joueur perd.
 
 _Indication :_ la fonction `exit` de la bibliothèque `stdlib.h` permet de mettre
 fin au programme avec le code de sortie passé en paramètre.

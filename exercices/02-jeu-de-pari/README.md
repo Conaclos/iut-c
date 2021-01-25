@@ -1,7 +1,7 @@
 Le but de cet exercice est de programmer un jeu de pari sur des combats.
-Le jeu génère aléatoirement deux combattant·e·s. Le joueur pari sur l'un deux.
+Le jeu génère aléatoirement deux combattant·e·s. Le joueur pari sur l'un d'eux.
 Si le joueur a parié sur le vainqueur, il remporte la partie.
-Pour simplifier la programmation de ce jeu nous allons procéder en plusieurs
+Pour simplifier la programmation de ce jeu, nous allons procéder en plusieurs
 étapes.
 
 ## Générateur de noms
@@ -28,7 +28,7 @@ probabilité d'esquive.
 
 **2.** Écrire le type composite `Fighter` correspondant.
 Le nom est une chaîne de caractères.
-Les points de vies sont représentés par un entier.
+Les points de vie sont représentés par un entier.
 La probabilité d'esquive est exprimée en pourcentage par un entier compris
 entre 0 et 100.
 
